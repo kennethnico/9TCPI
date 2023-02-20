@@ -513,11 +513,12 @@ section {
 }
 
 .clients img {
-  width: 40%;
+  width: 75%;
   filter: grayscale(100);
   transition: all 0.4s ease-in-out;
   display: inline-block;
   padding: 15px 0;
+  margin: auto;
 }
 
 .clients img:hover {
